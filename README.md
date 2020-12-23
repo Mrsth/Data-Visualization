@@ -12,3 +12,18 @@ Data can be visualized in different format like bar-graph, pie-chart, scatter-pl
   <img src="Matplotlib/Images of results/Line plot and annotation.png">
   <img src="Matplotlib/Images of results/Subplots.png">
 </div>
+
+<ul>
+  <li> <b> Line Plot </b></li>
+</ul>
+<div>
+  <img src = "Matplotlib/Images of results/Line plot and annotation.png">
+</div>
+
+<ul>
+  <li> <b> Scatter Plot </b></li>
+</ul>
+<div>
+  <img src = "Matplotlib/Images of results/Scatter plot.png">
+  <img src = "Matplotlib/Images of results/Diff Size Scatter Plot.png">
+</div>
