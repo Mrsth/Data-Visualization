@@ -7,3 +7,8 @@ Data can be visualized in different format like bar-graph, pie-chart, scatter-pl
 <ul>
   <li>Basics of matplotlib: https://www.theclickreader.com/basics-of-matplotlib/</li>
 </ul>
+
+<div>
+  <img src="Matplotlib/Images of results/Line plot and annotation.png">
+  <img src="Matplotlib/Images of results/Subplots.png">
+</div>
