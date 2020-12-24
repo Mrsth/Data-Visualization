@@ -52,3 +52,11 @@ Data can be visualized in different format like bar-graph, pie-chart, scatter-pl
 <div>
   <img src = "Matplotlib/Images of results/Histogram.png">
 </div>
+
+<ul>
+  <li> <b> 3D Plots </b></li>
+</ul>
+<div>
+  <img src = "Matplotlib/Images of results/3D Line Plot.png">
+  <img src = "Matplotlib/Images of results/3D Scatter Plot.png">
+</div>
