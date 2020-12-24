@@ -27,3 +27,28 @@ Data can be visualized in different format like bar-graph, pie-chart, scatter-pl
   <img src = "Matplotlib/Images of results/Scatter plot.png">
   <img src = "Matplotlib/Images of results/Diff Size Scatter Plot.png">
 </div>
+
+<ul>
+  <li> <b> Bar Plot </b></li>
+</ul>
+<div>
+  <img src = "Matplotlib/Images of results/Vertical Barplot.png">
+  <img src = "Matplotlib/Images of results/Vertically stacked barplot.png">
+  <img src = "Matplotlib/Images of results/Horizontal Barplot.png">
+  <img src = "Matplotlib/Images of results/Horizontally stacked barplot.png">
+</div>
+
+<ul>
+  <li> <b> Pie chart Plot </b></li>
+</ul>
+<div>
+  <img src = "Matplotlib/Images of results/Pie chart.png">
+  <img src = "Matplotlib/Images of results/Explode pie chart.png">
+</div>
+
+<ul>
+  <li> <b> Histogram Plot </b></li>
+</ul>
+<div>
+  <img src = "Matplotlib/Images of results/Histogram.png">
+</div>
